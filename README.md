@@ -86,30 +86,32 @@ Open `index.html` in your browser.
 
 ---
 
-## 👨‍💻 Author
-
-**Sam Wilson**
-
-🎓 B.E CSE (AI & ML)
-
-💻 Frontend Developer | Python Developer
-
-🌟 Passionate about Web Development, UI Design, and Creative Coding
-
----
-
-## ⭐ Support
+# ⭐ Support
 
 If you like this project:
 
-🌟 Star the repository
+⭐ Star the repository
 
-🍴 Fork the repository
+🔁 Share it with others
 
-📢 Share it with others
+💬 Provide feedback
 
 ---
 
-<p align="center">
-Made with ❤️ by Sam Wilson
+# 👨‍💻 Author
+
+**Sam Wilson**
+
+🌐 GitHub
+https://github.com/rsamwilson2323-cloud
+
+💼 LinkedIn
+https://www.linkedin.com/in/sam-wilson-14b554385
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
 </p>
